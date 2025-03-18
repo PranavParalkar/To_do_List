@@ -1,3 +1,8 @@
+#Pranav Paralkar
+#18 March 2024
+#To do list
+
+
 import mysql.connector as mysql
 
 # Connect to MySQL
